@@ -3,7 +3,7 @@
     margin-top:100px;
     width: 339px;
     height: 339px;
-    background: orange;
+    background: #f2994a;
 }
 
 .icon-user{
@@ -13,7 +13,7 @@
 
 input[type="text"] {
     height: 41px;
-    background: orange;
+    background: #f2994a;
     border: 1px solid white;
     border-radius: 5px;
     width: 184px;
@@ -38,7 +38,7 @@ input.password {
 
 .btn-login {
     border: none;
-    background: #7474c6;
+    background: #9b51e0;
     width: 195px;
     height: 40px;
     text-align: center;
@@ -47,8 +47,8 @@ input.password {
     margin-top: 21px;
     border-radius: 5px;
     cursor: pointer;
+    box-shadow: 0px 1px 0px 0px #bf793b;
 }
-
 p.text-forgot {
     color: white;
     width: 83px;

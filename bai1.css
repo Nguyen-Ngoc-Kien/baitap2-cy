@@ -7,14 +7,14 @@
 .content{
     width: 146px;
     height: 126px;
-    background-color: #8bd6d6;
+    background-color: #c4c4c4;
     position: relative;
 }
 
 .square-red{
     width: 55px;
     height: 55px;
-    background-color: red;
+    background-color: #eb5757;
     position: absolute;
     top:0px;
     left:0px;
@@ -23,7 +23,7 @@
 .square-orange{
     width: 55px;
     height: 55px;
-    background-color: #fabc4c;
+    background-color: #f2994a;
     position: absolute;
     bottom:0px;
     right:0px;

@@ -1,12 +1,12 @@
 .container {
     margin: auto;
     width: 223px;
-    background: #adbcc9;
+    background: #c4c4c4;
 }
 
 header{
     width: 100%;
-    background-color: red;
+    background-color: #eb5757;
     height: 31px;
 }
 
@@ -19,19 +19,19 @@ section{
 .col-1{
     width: 149px;
     height: 126px;
-    background-color: orange;
+    background-color: #f2994a;
 }
 
 .col-2{
     margin-left:11px;
     width: 64px;
     height: 126px;
-    background-color: red;
+    background-color: #eb5757;
 }
 
 footer{
     margin-top:35px;
     width: 100%;
-    background-color: blue;
+    background-color: #9b51e0;
     height: 34px;
 }
