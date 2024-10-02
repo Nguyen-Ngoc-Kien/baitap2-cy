@@ -1,0 +1,35 @@
+.container{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.square-orange{
+    width: 55px;
+    height: 55px;
+    background-color: orange;
+    rotate: 45deg;
+}
+.square-blue {
+    margin-left: 77px;
+    margin-top: -55px;
+    width: 55px;
+    height: 55px;
+    background-color: blue;
+    rotate: 45deg;
+}
+.square-purple{
+    margin-left: 0px;
+    margin-top: 22px;
+    width: 55px;
+    height: 55px;
+    background-color: #0a84f0;
+    rotate: 45deg;
+}
+.square-red {
+    margin-left: 77px;
+    margin-top: -55px;
+    width: 55px;
+    height: 55px;
+    background-color: red;
+    rotate: 45deg;
+}

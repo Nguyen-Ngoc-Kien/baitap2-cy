@@ -1,0 +1,14 @@
+.container{
+    margin: auto;
+    margin-top:100px;
+    width: 77.78px;
+    height: 233.78px;
+}
+
+.box-1{
+    margin-top: 22px;
+    background-color: blue;
+    width: 55px;
+    height: 55px;
+    rotate: 45deg;
+}

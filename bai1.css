@@ -1,0 +1,30 @@
+.container{
+    margin-left:100px;
+    margin-top:100px;
+    width: 50%;
+}
+
+.content{
+    width: 146px;
+    height: 126px;
+    background-color: #8bd6d6;
+    position: relative;
+}
+
+.square-red{
+    width: 55px;
+    height: 55px;
+    background-color: red;
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+
+.square-orange{
+    width: 55px;
+    height: 55px;
+    background-color: #fabc4c;
+    position: absolute;
+    bottom:0px;
+    right:0px;
+}

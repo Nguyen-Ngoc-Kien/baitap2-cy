@@ -1,0 +1,44 @@
+.container{
+    margin: auto;
+    width: 385px;
+    height: 110px;
+    margin-top:100px;
+}
+.square-top{
+    display: flex;
+    justify-content: space-between;
+}
+.square-1{
+    width: 55px;
+    height: 55px;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.square-bot{
+    display: flex;
+    justify-content: space-between;
+}
+
+.square-2{
+    width: 55px;
+    height: 55px;
+    border-radius: 0px 0px 10px 10px;
+    margin-left:55px;
+}
+
+.square-3{
+    width: 55px;
+    height: 55px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.square-4{
+    width: 55px;
+    height: 55px;
+    border-radius: 0px 0px 10px 10px;
+    margin-right:55px;
+}

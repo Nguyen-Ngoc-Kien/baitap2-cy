@@ -1,0 +1,37 @@
+.container {
+    margin: auto;
+    width: 223px;
+    background: #adbcc9;
+}
+
+header{
+    width: 100%;
+    background-color: red;
+    height: 31px;
+}
+
+section{
+    margin-top:11px;
+    display: flex;
+    width: 100%;
+}
+
+.col-1{
+    width: 149px;
+    height: 126px;
+    background-color: orange;
+}
+
+.col-2{
+    margin-left:11px;
+    width: 64px;
+    height: 126px;
+    background-color: red;
+}
+
+footer{
+    margin-top:35px;
+    width: 100%;
+    background-color: blue;
+    height: 34px;
+}
